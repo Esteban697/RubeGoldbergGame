@@ -3,7 +3,7 @@
 
 This project is my first full immersive VR Game for Oculus and HTC Vive.
 It is a 4 level game based on physics to make a ball go from a platform to a goal using other objects to build the path.
-This path is pupolarly referred to as Rude Goldberg Machine. You have to build one using a Object Menu, handled by the righ controller.
+This path is popularly referred to as Rude Goldberg Machine. You have to build one using a Object Menu, handled by the right controller.
 You can spawn 4 different objects with different features to complete the path.
 Multiple combinations may allow you to collect all starts and reach the goal to complete each level.
 Enjoy!!
